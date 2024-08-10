@@ -15,9 +15,6 @@ This project focuses on optimizing the placement and accessibility of electric a
 
 - `Electric and Alternative Fuel Charging Stations.ipynb`: Jupyter Notebook containing data analysis, visualizations, and model building in Python.
 - `processed_charging_stations.csv`: A cleaned and processed dataset was used for analysis and modeling.
-- `Milestone-1`: Folder containing scripts and results from the first milestone.
-- `Milestone-2`: Folder containing scripts and results from the second milestone.
-- `Milestone-3`: Folder containing scripts and results from the third milestone.
 
 ## Prerequisites
 
